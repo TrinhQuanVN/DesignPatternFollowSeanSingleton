@@ -1,0 +1,15 @@
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\bin\Debug\net6.0\Stategy.exe
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\bin\Debug\net6.0\Stategy.deps.json
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\bin\Debug\net6.0\Stategy.runtimeconfig.json
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\bin\Debug\net6.0\Stategy.dll
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\bin\Debug\net6.0\Stategy.pdb
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\obj\Debug\net6.0\Stategy.csproj.AssemblyReference.cache
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\obj\Debug\net6.0\Stategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\obj\Debug\net6.0\Stategy.AssemblyInfoInputs.cache
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\obj\Debug\net6.0\Stategy.AssemblyInfo.cs
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\obj\Debug\net6.0\Stategy.csproj.CoreCompileInputs.cache
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\obj\Debug\net6.0\Stategy.dll
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\obj\Debug\net6.0\refint\Stategy.dll
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\obj\Debug\net6.0\Stategy.pdb
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\obj\Debug\net6.0\Stategy.genruntimeconfig.cache
+D:\C#\project\WPF\DesignPatternFollowSeanSingleton\Stategy\obj\Debug\net6.0\ref\Stategy.dll
