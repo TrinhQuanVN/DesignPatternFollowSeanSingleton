@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace DashBroad.ViewModels
 {
-    internal class DashbroadViewModel
+    public class DashbroadViewModel
     {
+        public DashbroadViewModel(CostViewModel costViewModel, ProfitViewModel profitViewModel, RecentScaleViewModel recentScaleViewModel, RevenueViewModel revenueViewModel)
+        {
+            CostViewModel = costViewModel;
+            ProfitViewModel = profitViewModel;
+            RecentScaleViewModel = recentScaleViewModel;
+            RevenueViewModel = revenueViewModel;
+        }
+
+        public CostViewModel CostViewModel  { get; set; }
+        public ProfitViewModel ProfitViewModel { get; set; }
+        public RecentScaleViewModel RecentScaleViewModel { get; set; }
+        public RevenueViewModel RevenueViewModel { get; set; }
     }
 }

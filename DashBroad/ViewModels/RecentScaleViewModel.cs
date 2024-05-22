@@ -10,7 +10,7 @@ namespace DashBroad.ViewModels
     {
         private readonly IEnumerable<ScaleViewModel> _scale;
 
-        public RecentScaleViewModel(IEnumerable<ScaleViewModel> scale)
+        public RecentScaleViewModel()
         {
             _scale = new List<ScaleViewModel>
             {

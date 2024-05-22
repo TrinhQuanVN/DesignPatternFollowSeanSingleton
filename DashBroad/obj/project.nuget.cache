@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hdp0HsItyZiPJcdFH7+VxAC6UfCGLlG1z9N/yWeHxdT6FQv/ZruaMjb1mqfsg4X3Vfy4C6UJu/fKn29IEHk94A==",
+  "dgSpecHash": "VNMRHEQL4+DoGFuuQZAbFLdFdZpbj9bESBnzQssZ947Z5VI5N98xSmQm2iIqmfvFI5Z+9juG5j7ds97eY0Xwlw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\project\\WPF\\DesignPatternFollowSeanSingleton\\DashBroad\\DashBroad.csproj",
+  "projectFilePath": "D:\\Code\\CSharpWPF\\DesignPatternSeanSingleton\\DesignPatternFollowSeanSingleton\\DashBroad\\DashBroad.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

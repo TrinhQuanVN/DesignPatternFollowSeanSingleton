@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stategy", "Stategy\Stategy.csproj", "{34CFD2C9-1129-435D-AC94-5071319A5A1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemControlComponent", "ItemControlComponent\ItemControlComponent.csproj", "{D671F7F4-25AB-4BB8-B7C5-3F3FBD8DD9CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItemControlComponent", "ItemControlComponent\ItemControlComponent.csproj", "{D671F7F4-25AB-4BB8-B7C5-3F3FBD8DD9CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DashBroad", "DashBroad\DashBroad.csproj", "{165B1954-9E0D-445F-8A51-FE3193C405E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D671F7F4-25AB-4BB8-B7C5-3F3FBD8DD9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D671F7F4-25AB-4BB8-B7C5-3F3FBD8DD9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D671F7F4-25AB-4BB8-B7C5-3F3FBD8DD9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{165B1954-9E0D-445F-8A51-FE3193C405E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165B1954-9E0D-445F-8A51-FE3193C405E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165B1954-9E0D-445F-8A51-FE3193C405E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165B1954-9E0D-445F-8A51-FE3193C405E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stategy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e29473b8c9b7b1fbc7036783d82a71f89f1b4f3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stategy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stategy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DashBroad.ViewModels
 {
-    internal class ProfitViewModel
+    public class ProfitViewModel
     {
+        public double Profit => 5000;
+        public bool IsPositive => Profit > 0;
+        public bool IsNegative => Profit < 0;
     }
 }

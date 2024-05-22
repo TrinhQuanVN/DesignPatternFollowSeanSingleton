@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IVVYf8CnpgZShEFGxcZlRn9U6v0VEBhlG0nOY1ttgw2xHAEPm12VFqBdMbSgItoA7c1AmTO42TS2jY0uNb8wEA==",
+  "dgSpecHash": "0j69+hWFOmaZNCvZ6LnwOWjm7MbMjSBRZwUgCl4W5M3QjOBsArW+rCSKJrnDyaJwjXIS4bh8rqnebz4Lci1Hjg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\project\\WPF\\DesignPatternFollowSeanSingleton\\Command\\Command.csproj",
+  "projectFilePath": "D:\\Code\\CSharpWPF\\DesignPatternSeanSingleton\\DesignPatternFollowSeanSingleton\\Command\\Command.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trinh\\.nuget\\packages\\bogus\\35.5.0\\bogus.35.5.0.nupkg.sha512"
   ],

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DashBroad.ViewModels
 {
-    internal class RevenueViewModel
+    public class RevenueViewModel
     {
+        public double Revenue => 10_000;
     }
 }

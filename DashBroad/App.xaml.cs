@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DashBroad.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
@@ -13,5 +14,20 @@ namespace DashBroad
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            MainWindow = new MainWindow()
+            {
+                DataContext = new DashbroadViewModel(
+
+                    new CostViewModel(),
+                    new ProfitViewModel(),
+                    new RecentScaleViewModel(),
+                    new RevenueViewModel()
+                )
+            };
+            MainWindow.Show();
+            base.OnStartup(e);
+        }
     }
 }

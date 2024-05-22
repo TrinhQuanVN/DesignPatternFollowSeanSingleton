@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\C#\project\WPF\DesignPatternFollowSeanSingleton\ItemControlComponent\obj\Debug\net6.0-windows\
+D:\Code\CSharpWPF\DesignPatternSeanSingleton\DesignPatternFollowSeanSingleton\ItemControlComponent\obj\Debug\net6.0-windows\
 ItemControlComponent
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\C#\project\WPF\DesignPatternFollowSeanSingleton\ItemControlComponent\App.xaml
+D:\Code\CSharpWPF\DesignPatternSeanSingleton\DesignPatternFollowSeanSingleton\ItemControlComponent\App.xaml
 2-583376448
 
 8-906696687
-194618410957
+194-1977528901
 Components\ProductCard.xaml;MainWindow.xaml;
 
 False

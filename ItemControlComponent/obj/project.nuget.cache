@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0daK4W/4bYQSHHlQ42ZaVxKdEQkrHNC68yfKyQuajFPEd9HrJX0zsp1H3mE3e7ZrBrvh4OrZaxMQAw0uZcUJPQ==",
+  "dgSpecHash": "uGJDX7TK0sLk4XPM6B74Rh2xYqmteOnXsjThOBlNLaksQiLRrCBffNfXa9daZZ7dSgFXJ6jwv7itTZO+Vpcr0Q==",
   "success": true,
-  "projectFilePath": "D:\\C#\\project\\WPF\\DesignPatternFollowSeanSingleton\\ItemControlComponent\\ItemControlComponent.csproj",
+  "projectFilePath": "D:\\Code\\CSharpWPF\\DesignPatternSeanSingleton\\DesignPatternFollowSeanSingleton\\ItemControlComponent\\ItemControlComponent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
