@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FgAJDOTMvnGMUbnMnr1E5u9yn9vPsoS6cOeoL4GRSdn/hPcMwnx7yHK66PTj+NdkCG4Ki5MHugK8oFnhbPoZGw==",
+  "dgSpecHash": "mjYvVZ2bfixQFjghZn1vFHpoLhlgRtwDU98OyAqBUBz/TXG2sWaGfvLfHvF7CeScpDAWeAQeo3NdB3OfDkiFRA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\CSharpWPF\\DesignPatternSeanSingleton\\DesignPatternFollowSeanSingleton\\Stategy\\Stategy.csproj",
+  "projectFilePath": "D:\\C#\\project\\WPF\\DesignPatternFollowSeanSingleton\\Stategy\\Stategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

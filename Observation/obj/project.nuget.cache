@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9K4l/Av5L2BLM+nK3L7rlnX3uStxTtKjJDjmUiPrXWBasN81dlX0MI4Y4jWRwGXRPN3Pm9AoX98VME6HuoWTqw==",
+  "dgSpecHash": "bdDCE9j7+i+AKM5D9VRgu0LCU2ubguZ1Bkuu7VcGiKrl6U2v7Ks4IdM93MuYG3fp478Yb/yoHqdy2ir5syg0jg==",
   "success": true,
-  "projectFilePath": "D:\\Code\\CSharpWPF\\DesignPatternSeanSingleton\\DesignPatternFollowSeanSingleton\\Observation\\Observation.csproj",
+  "projectFilePath": "D:\\C#\\project\\WPF\\DesignPatternFollowSeanSingleton\\Observation\\Observation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

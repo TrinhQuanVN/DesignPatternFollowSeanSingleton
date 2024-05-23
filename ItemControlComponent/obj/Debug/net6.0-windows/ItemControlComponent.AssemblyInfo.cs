@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ItemControlComponent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e29473b8c9b7b1fbc7036783d82a71f89f1b4f3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ItemControlComponent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ItemControlComponent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
